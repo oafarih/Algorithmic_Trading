@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+pyarrow
+scipy
+scikit-learn
+scikit-optimize
+PyPortfolioOpt
+python-binance
