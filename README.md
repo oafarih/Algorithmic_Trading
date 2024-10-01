@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Configure API Keys**: Set up Binance API keys in a `binance_keys.py` file:
-   ```
+   ```python
    api_key = 'your_api_key'
    secret_key = 'your_secret_key'
    ```
